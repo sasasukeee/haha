@@ -1,5 +1,5 @@
 function ⵠⵠⵠⵠⵠ(){
-     let safe = false;
+     let safe = true;
             setTimeout(function() {
                 if(safe === false){
                     let ⵠ = 0;
